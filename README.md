@@ -1,4 +1,8 @@
 # crime-analysis-india
+
+<img width="995" height="561" alt="image" src="https://github.com/user-attachments/assets/889ff626-ecdb-4461-a32a-7b2607af778d" />
+
+
 Power BI dashboard analyzing 40,160 crime records across 29 Indian cities (2020–2024) — demographics, victim profiling, police efficiency &amp; geo-spatial insights.
 
 # 🔍 Crime Analysis - India | Power BI Dashboard
