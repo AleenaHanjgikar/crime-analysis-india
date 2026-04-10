@@ -129,12 +129,17 @@ Landing/navigation page.
 - Navigation buttons to: Dataset, Dashboard, Data Preparation pages
 - Decorative shapes and layout elements
 
+<img width="995" height="563" alt="image" src="https://github.com/user-attachments/assets/010462cd-3ada-4875-8555-b5b5c0b0963f" />
+
+
 ---
 
 ### 2. 📋 Dataset
 A documentation page describing the raw data source.
 - Static textbox descriptions of the dataset
 - Navigation panel for moving between report pages
+
+<img width="997" height="562" alt="image" src="https://github.com/user-attachments/assets/6aaa909f-b647-4869-b30a-f1500f9bcd9b" />
 
 ---
 
@@ -151,6 +156,9 @@ A documentation page describing the raw data source.
 | Age Grp-wise Crimes | Donut Chart | Child / Teen / Adult / Senior breakdown |
 | 2 KPI Cards | Cards | Additional metrics |
 
+<img width="997" height="566" alt="image" src="https://github.com/user-attachments/assets/98b4c3d3-eabd-45b6-9af5-8f1c5ccc374a" />
+
+
 ---
 
 ### 4. 🩺 Victim Analysis
@@ -162,6 +170,9 @@ A documentation page describing the raw data source.
 | Gender-wise Victims | Pie Chart | M / F / X gender split |
 | Top Victim Age Segments | Clustered Bar Chart | Most affected age ranges |
 | Total Crime by City | Pivot Table | Matrix of crime counts per city |
+
+
+<img width="995" height="561" alt="image" src="https://github.com/user-attachments/assets/c9c25a89-38be-482f-a1c2-02e566f26d99" />
 
 ---
 
@@ -176,6 +187,9 @@ A documentation page describing the raw data source.
 | Monthly Police Deployed vs Total Reports | Stacked Area Chart | Trend over time |
 | Pivot Table | Matrix | Detailed cross-tab breakdown |
 
+<img width="998" height="558" alt="image" src="https://github.com/user-attachments/assets/e7b14ac7-0735-4766-a4d1-1b97eb3e4fc8" />
+
+
 ---
 
 ### 6. ⏰ Time Analysis – 1 (Occurrence-based)
@@ -188,6 +202,9 @@ A documentation page describing the raw data source.
 | Monthly Crimes | Area Chart | Monthly crime volume trend |
 | Age Grp-Wise Crimes Per Day | Bar Chart | How different age groups are affected per weekday |
 
+<img width="997" height="562" alt="image" src="https://github.com/user-attachments/assets/6acc5133-651b-4cd6-baaa-241be8377781" />
+
+
 ---
 
 ### 7. ⏱️ Time Analysis – 2 (Reporting-based)
@@ -199,6 +216,9 @@ A documentation page describing the raw data source.
 | Monthly Crimes Reported | Area Chart | Reporting trend over months |
 | Age Grp-Wise Crimes Reported Per Day | Column Chart | Age-segmented reporting patterns |
 | Avg Crimes Reported by Day | Clustered Bar Chart | Average daily reporting volume |
+
+<img width="995" height="560" alt="image" src="https://github.com/user-attachments/assets/32c1df50-0c19-47a1-8771-2f2947dceb73" />
+
 
 ---
 
@@ -213,12 +233,18 @@ A documentation page describing the raw data source.
 
 *Note: Uses a custom India TopoJSON file (`india8201911891396916.json`) for the shape map.*
 
+<img width="995" height="557" alt="image" src="https://github.com/user-attachments/assets/171bf4c8-d4a9-4b12-83eb-41ff944e32be" />
+
+
 ---
 
 ### 9. 💡 INSIGHTS
 Key findings and conclusions page.
 - Textbox with written insights summarizing the analysis
 - Navigation panel
+
+<img width="995" height="561" alt="image" src="https://github.com/user-attachments/assets/53428862-fd26-4170-b2b0-0fbe7447e05e" />
+
 
 ---
 
